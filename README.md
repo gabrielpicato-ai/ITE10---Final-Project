@@ -13,9 +13,21 @@ This is a web-based application for Barangay BJ1 to manage barangay information 
 - Quick-add floating button for easy data entry
 - Responsive design for mobile and desktop
 
-## How to Run
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
+## How to Open the Project
+
+1. **Download the `BIS` folder**
+   - Click **Code → Download ZIP**, then extract the file.
+
+2. **Navigate to the project files**
+   - Go to: `BIS/html`
+
+3. **Open the BIS folder in VS Code**
+   - Open `index.html` in Visual Studio Code.
+   - You can drag the file into VS Code or right-click → “Open with Code”.
+
+4. **Run the project**
+   - If you have the Live Server extension, right-click `index.html` → **Open with Live Server**.
+   - If not, you can open `index.html` directly in your browser.
 
 ## Authors
 - Group 2, ITE 10
