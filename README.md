@@ -1,4 +1,4 @@
-# ITE10 - inal Project
+# ITE10 - Final Project
 
 **Project:** Barangay BJ1 - Community Census & Information System
 **Course:** ITE 10 – Final Project  
