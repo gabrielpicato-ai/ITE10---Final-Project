@@ -396,6 +396,16 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+# VS Code settings
+.vscode/
+
+# Node modules (if any)
+node_modules/
+
+# System files
+.DS_Store
+*.log
+
 # VS Code files for those working on multiple tools
 .vscode/*
 !.vscode/settings.json
